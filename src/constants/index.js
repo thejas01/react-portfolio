@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile back end developer wit
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2024 - Present",
     role: "Software Engineer",
     company: "Omnion Premedia Limited",
     description: `Member of a team in developing and maintaining media software applications using Java, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
@@ -17,7 +17,7 @@ export const EXPERIENCES = [
   },
   
   {
-    year: "2021 - 2022",
+    year: "2022 - 2023",
     role: "Trainee Software Developer",
     company: "CitiusTech Healthcare",
     description: `Developed and maintained web applications using JavaScript, React.js and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
