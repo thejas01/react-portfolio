@@ -28,18 +28,18 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "E-Commerce Application Using SpingBoot-Microservice",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A modern e-commerce backend system built with Spring Boot, implementing a microservices architecture. Features include product catalog, user authentication with JWT, shopping cart, order management, payment processing, API Gateway, Eureka Server, and messaging with Kafka",
+    technologies: ["SpringBoot", "Microservice","mySql","JWT-Authentication"],
   },
   {
-    title: "Healthcare Management App",
+    title: "Healthcare Management Backend Application",
     image: project2,
     description:
       "Healthcare web application is dedicated to providing a holistic and integrated approach to health management",
-    technologies: ["Java", "SpringBoot", "Hibernate", "Mysql"],
+    technologies: [ "SpringBoot", "Microservice", "mySql"],
   },
   {
     title: "Portfolio Website",
