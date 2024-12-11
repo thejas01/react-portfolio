@@ -20,8 +20,8 @@ export const EXPERIENCES = [
     year: "2022 - 2023",
     role: "Trainee Software Developer",
     company: "CitiusTech Healthcare",
-    description: `Developed and maintained web applications using JavaScript, React.js and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["SpringBoot", "Java", "Sql", "Postgres"],
+    description: `Developed and maintained  backend web applications using Springboot and microservices. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    technologies: ["SpringBoot", "Java", "Microservice"],
   },
   
 ];
